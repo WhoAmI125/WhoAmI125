@@ -1,5 +1,3 @@
-# Hajong Kim (김하종)
-
 ## Company Project
 <a href="https://github.com/sunwoongskku/lesik">
     <img src="https://img.shields.io/badge/AI 기반 디지털 레시피 자동 생성화-<COLOR>"
