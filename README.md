@@ -45,6 +45,3 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoAmI125&layout=compact&langs_count=8&card_width=445"></img>
 </div>
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/?username=WhoAmI125&show_icons=true"></img>
-</div>
