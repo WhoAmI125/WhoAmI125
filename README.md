@@ -1,4 +1,4 @@
-## Company Project
+## Company-University CProject
 <a href="https://github.com/sunwoongskku/lesik">
     <img src="https://img.shields.io/badge/AI 기반 디지털 레시피 자동 생성화 (AI Based Automatic Digital Recipe)-<COLOR>"
         style="height : auto; margin-left : 8px; margin-right : 8px;"/>
