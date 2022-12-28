@@ -1,30 +1,30 @@
 ## Company Project
 <a href="https://github.com/sunwoongskku/lesik">
-    <img src="https://img.shields.io/badge/AI 기반 디지털 레시피 자동 생성화-<COLOR>"
+    <img src="https://img.shields.io/badge/AI 기반 디지털 레시피 자동 생성화 (AI Based Automatic Digital Recipe)-<COLOR>"
         style="height : auto; margin-left : 8px; margin-right : 8px;"/>
 </a>
 <br>
 <a href="https://github.com/2022MediAISH">
-    <img src="https://img.shields.io/badge/임상시험 설계 모식도 자동생성 및 시각화-<COLOR>"
+    <img src="https://img.shields.io/badge/임상시험 설계 모식도 자동생성 및 시각화 (Automatic Clinical Trial Diagram and Visualization)-<COLOR>"
         style="height : auto; margin-left : 8px; margin-right : 8px;"/>
 </a>
 <br>
 
 ## Personal Project
 <a href="https://github.com/WhoAmI125/PingPong">
-    <img src="https://img.shields.io/badge/Pygame: 핑퐁-<COLOR>"
+    <img src="https://img.shields.io/badge/Pygame: ping pong-<COLOR>"
         style="height : auto; margin-left : 8px; margin-right : 8px;"/>
 </a>
 <br>
 
 <a href="https://github.com/WhoAmI125/MiniGames">
-    <img src="https://img.shields.io/badge/자바 미니게임 천국-<COLOR>"
+    <img src="https://img.shields.io/badge/자바 미니게임 천국 (Java Mini Game Collection)-<COLOR>"
         style="height : auto; margin-left : 8px; margin-right : 8px;"/>
 </a>
 
 ## Team Open Source Project
 <a href="https://github.com/WhoAmI125/RoomEscape">
-    <img src="https://img.shields.io/badge/교육용 방탈출 웹-<COLOR>"
+    <img src="https://img.shields.io/badge/교육용 방탈출 웹 (Educational Web Room Escape)-<COLOR>"
         style="height : auto; margin-left : 8px; margin-right : 8px;"/>
 </a>
 
