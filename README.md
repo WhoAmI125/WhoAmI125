@@ -28,9 +28,6 @@
         style="height : auto; margin-left : 8px; margin-right : 8px;"/>
 </a>
 
-## Documentation
-- <a href="https://whoami125.notion.site/AWS-EC2-4fc2808f27664eddba10483ccaa127f6">AWS EC2 Information (AWS EC2 내용 정리)</a>
-
 ## Langauges & Tech Stacks
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
